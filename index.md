@@ -6,3 +6,5 @@
 [Interactive Reactive Synthesis for Music Synthesizers with TSL](http://tslsynthesissynthesizer.com/)
 
 [Dynamic Dropdown Interfaces for Logic](https://barnard-pl-labs.github.io/dynamicGrammars/)
+
+Spiral Analysis (no public link at the moment)
