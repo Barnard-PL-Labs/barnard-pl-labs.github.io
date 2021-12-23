@@ -1,6 +1,8 @@
 
 # Projects
 
-http://161.35.14.211/
-http://tslsynthesissynthesizer.com/
-https://barnard-pl-labs.github.io/dynamicGrammars/
+[Synthesis-enabled Live Coding](http://161.35.14.211/)
+
+[Interactive Reactive Synthesis for Music Synthesizers with TSL](http://tslsynthesissynthesizer.com/)
+
+[Dynamic Dropdown Interfaces for Logic](https://barnard-pl-labs.github.io/dynamicGrammars/)
