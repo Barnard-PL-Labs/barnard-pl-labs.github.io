@@ -1,4 +1,6 @@
 
+Barnard PL (Programming Languages) Labs is run by [Prof. Mark Santolucito](http://www.marksantolucito.com/) at [Barnard College, Columbia University](https://cs.barnard.edu/).
+
 # Projects
 
 [Synthesis-enabled Live Coding](http://161.35.14.211/)
