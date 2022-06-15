@@ -9,6 +9,8 @@ Barnard PL (Programming Languages) Labs is run by [Prof. Mark Santolucito](http:
 
 [TSL Synthesis as a language](https://barnard-pl-labs.github.io/tsltools/)
 
+[TSL-MT](https://github.com/Barnard-PL-Labs/temos)
+
 [Dynamic Dropdown Interfaces for Logic](https://barnard-pl-labs.github.io/dynamicGrammars/)
 
 Spiral Analysis (no public link at the moment)
