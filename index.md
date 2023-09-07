@@ -5,10 +5,14 @@ Barnard PL (Programming Languages) Labs is run by [Prof. Mark Santolucito](http:
 
 ## TSL
 
-Temporal Stream Logic allows users to give specifications about how a program should behave over time, and then automatically synthesize a program that is guarenteed to meet that specification.
+Temporal Stream Logic allows users to give specifications about how a program should behave over time, and then automatically synthesize a program that is guaranteed to meet that specification.
 
-We introduced [TSL as a service](https://barnard-pl-labs.github.io/tsl-api/), which puts TSL synthesis on a serverless cloud infrastructure.
+The current goal of this work is build a TSL to Arduino pipeline.
+
+We introduced a [TSL API](https://barnard-pl-labs.github.io/tsl-api/), which puts TSL synthesis on a serverless cloud infrastructure.
 This allows easy experimentation with TSL (no local installs) while also not costing us a fortune in server costs.
+
+We built a TSL playground focused on interactive animations called [TSL Move Cube](https://barnard-pl-labs.github.io/moveCube/), which uses the above mentioned TSL API.
 
 We are exploring a [Block-based Editor for Temporal Logic Program Synthesis](https://barnard-pl-labs.github.io/tslBlocks/).
 The goal is to lower the barrier-to-entry for users to get started writing TSL specifications for those that are new to the syntax of TSL and temporal logics in general.
@@ -16,6 +20,7 @@ The goal is to lower the barrier-to-entry for users to get started writing TSL s
 We [Interactive Reactive Synthesis for Music Synthesizers with TSL](http://tslsynthesissynthesizer.com/)
 
 We build a synthesis engine for [TSL-MT](https://github.com/Barnard-PL-Labs/temos) (TSL-Modulo theories), which has now been integrated into our mainline [tsltools repo](https://github.com/Barnard-PL-Labs/tsltools), which is used in the serverless TSL deployment.
+
 
 ## Spiral Analysis
 
