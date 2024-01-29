@@ -14,12 +14,14 @@ This allows easy experimentation with TSL (no local installs) while also not cos
 
 We built a TSL playground focused on interactive animations called [TSL Move Cube](https://barnard-pl-labs.github.io/moveCube/), which uses the above mentioned TSL API.
 
+We used TSL to synthesize a reactive controller for [The Snake](https://ravenrothkopf.com/snakeTSL/) game and integrated in into an online demo.
+
 We are exploring a [Block-based Editor for Temporal Logic Program Synthesis](https://barnard-pl-labs.github.io/tslBlocks/).
 The goal is to lower the barrier-to-entry for users to get started writing TSL specifications for those that are new to the syntax of TSL and temporal logics in general.
 
 We [Interactive Reactive Synthesis for Music Synthesizers with TSL](http://tslsynthesissynthesizer.com/)
 
-We build a synthesis engine for [TSL-MT](https://github.com/Barnard-PL-Labs/temos) (TSL-Modulo theories), which has now been integrated into our mainline [tsltools repo](https://github.com/Barnard-PL-Labs/tsltools), which is used in the serverless TSL deployment.
+We built a synthesis engine for [TSL-MT](https://github.com/Barnard-PL-Labs/temos) (TSL-Modulo theories), which has now been integrated into our mainline [tsltools repo](https://github.com/Barnard-PL-Labs/tsltools), which is used in the serverless TSL deployment.
 
 
 
