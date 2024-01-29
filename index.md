@@ -22,18 +22,19 @@ We [Interactive Reactive Synthesis for Music Synthesizers with TSL](http://tslsy
 We build a synthesis engine for [TSL-MT](https://github.com/Barnard-PL-Labs/temos) (TSL-Modulo theories), which has now been integrated into our mainline [tsltools repo](https://github.com/Barnard-PL-Labs/tsltools), which is used in the serverless TSL deployment.
 
 
-## Spiral Analysis
-
-The goal of this project is to migrate legacy medical software to a new computing infrastructure, while maintaining some guarentees about its clincally-relevant behvaior.
-We are focused on the Spiral Analysis tool from Dr. Seth Pullman's lab, which quantifies upper limb tremor disorders.
-
-(no public link at the moment)
 
 ## Static Analysis for IaC
 
 The goal of this project is to build static analysis tools for cost analysis of  Infrastructure as Code (Iac).
 In particular, in order to statically predict the costs of a IaC deployment, usage estimates are often provided by users.
 This is useful in the case where users want to run a what-if analysis, e.g. what if my website traffic increase 3-fold, what if my website processes half as much data - how will this impact my costs.
+
+[Static Analysis for IaC Tool](https://github.com/Barnard-PL-Labs/IaCAnalysis.git)
+
+## Spiral Analysis
+
+The goal of this project is to migrate legacy medical software to a new computing infrastructure, while maintaining some guarentees about its clincally-relevant behvaior.
+We are focused on the Spiral Analysis tool from Dr. Seth Pullman's lab, which quantifies upper limb tremor disorders.
 
 (no public link at the moment)
 
